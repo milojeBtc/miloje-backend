@@ -10,7 +10,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
   title: 'Miloje Nikolic',
-  description: 'I am Miloje Nikolic, a dedicated programmer with a strong passion for learning and problem-solving. With 5 years of experience in blockchain technology, including Bitcoin, Solana, and Ethereum, I am proficient in various web application development stacks. I am eager to contribute my skills and expertise to any job opportunity that aligns with my abilities and interests.',
+  description: 'A highly skilled and results-driven Senior Backend Developer with over 6 years of experience in designing, developing, and maintaining scalable backend systems. Expertise in core backend technologies, including Node.js, Express.js, PostgreSQL, and API development, with a focus on building secure, high-performance solutions. Proven ability to collaborate effectively with cross-functional teams to deliver robust, efficient, and scalable software applications.',
 }
 
 export default function RootLayout({ children }) {
