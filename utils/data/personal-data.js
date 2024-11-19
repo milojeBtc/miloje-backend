@@ -5,7 +5,7 @@ export const personalData = {
   description: "A highly skilled and results-driven Senior Backend Developer with over 6 years of experience in designing, developing, and maintaining scalable backend systems. Expertise in core backend technologies, including Node.js, Express.js, PostgreSQL, and API development, with a focus on building secure, high-performance solutions. Proven ability to collaborate effectively with cross-functional teams to deliver robust, efficient, and scalable software applications.",
   email: 'nikolic.miloje0507@gmail.com',
   phone: '',
-  address: 'Warsaw, Serbia',
+  address: 'Warsaw, Poland',
   github: 'https://github.com/milojeBtc',
   facebook: '#',
   linkedIn: '#',
