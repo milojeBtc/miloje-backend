@@ -1,0 +1,75 @@
+import ayla from '/public/image/ayla.jpg';
+import crefin from '/public/image/crefin.jpg';
+import realEstate from '/public/image/real-estate.jpg';
+import travel from '/public/image/travel.jpg';
+
+export const projectsData = [
+    {
+        id: 1,
+        name: 'Ord Toolkit (Bitcoin)',
+        URL: 'https://ordtoolkit.app/',
+        description: "I lead the development of the backend for Ord Toolkit, a platform focused on ordinals, BRC-20, and Bitcoin. Our comprehensive suite of utilities serves developers and everyday users, enhancing their experience with ordinals and blockchain technology.",
+        tools: ['Blockchain', 'Bitcoin', 'Unisat', 'Xverse', 'MongoDB', 'Tailwind CSS', 'Next.js', 'Node'],
+        role: 'Blockchain Bitcoin Developer, Lead Developer',
+        code: '',
+        demo: '',
+        cover_image: '/project/ordtoolkit.png',
+    },
+    {
+        id: 2,
+        name: 'DexOrdi (Bitcoin)',
+        URL: 'https://dexordi-fe.vercel.app',
+        description: "DexOrdi is a cutting-edge platform that offers a seamless and user-friendly trading experience, empowering individuals to delve into the world of decentralized trading on the Bitcoin network. Recognizing the unique challenges associated with decentralized trading on Bitcoin, DexOrdi has positioned itself as a leader in overcoming these obstacles.",
+        tools: ['Blockchain' ,'Bitcoin', 'Tailwind CSS', "TypeScript", "Node.js", "Brc20", "CBRC20", "Node.js"],
+        role: 'Blockchain Bitcoin Developer',
+        code: '',
+        demo: '',
+        cover_image: '/project/dexordi.png',
+    },
+    {
+        id: 3,
+        name: 'Asigna Bitcoin Multisig(Bitcoin)',
+        URL: 'https://btc.asigna.io/',
+        description: 'The multisig solution created for Bitcoin, which utilize the Taproot Bitcoin update, facilitating the use of Ordinals, BRC20, and enabling users to minimize gas fees as much as possible.',
+        tools: ['Blockchain', 'Bitcoin', 'Node', 'React', 'Express', 'TypeScript', 'MongoDB', 'JWT'],
+        code: '',
+        role: 'Blockchain Bitcoin Developer',
+        demo: '',
+        cover_image: '/project/asigna.png',
+    },
+    {
+        id: 4,
+        name: 'Satoshi Punks(Bitcoin)',
+        URL: 'https://www.satoshipunks.art/',
+        description: "At Satoshi Punks, we are excited to introduce you to a world of possibilities with NFTs. We believe that NFTs represent a revolutionary shift in the way we own and trade digital assets, and we are here to help you navigate this innovative space with confidence and expertise",
+        tools: ['Blockchain', 'Bitcoin', 'React', 'Material UI', 'Redux', "Bitcoin", "Ordinal"],
+        code: '',
+        role: 'Blockchain Bitcoin Developer',
+        demo: '',
+        image: ayla,
+        cover_image: '/project/satoshi.png',
+    },
+    {
+        id: 5,
+        name: 'Galactic Kingdom P2E Game (Bitcoin, Solana)',
+        URL: 'https://galactickingdom.io/',
+        description: 'The Galactic Kingdom P2E Game is inspired by the concept of unity found in the popular manga series "One Piece," and is powered by a sophisticated network infrastructure. Players are invited to embark on a journey of exploration, construction, and conquest within a vast galactic realm.',
+        tools: ['Blockchain', 'Unity', 'Express', 'TypeScript', 'MongoDB', 'JWT', 'Bitcoin', 'Solana', 'Web Socket'],
+        code: '',
+        role: 'Blockchain Bitcoin Developer',
+        demo: '',
+        cover_image: '/project/galactickingdom.png',
+    },
+    {
+        id: 6,
+        name: 'Bitcoin Defi(Bitcoin)',
+        URL: 'https://arcusbtc.com/',
+        description: "ArcusLab is a cutting-edge Bitcoin decentralized finance (DeFi) platform that enables users to access Faucet BRC20 tokens, as well as supply or borrow BTC and BRC20 tokens with an over-collateral ratio. Our platform utilizes Next.js for the frontend, Node.js for the backend, and MongoDB for the database.",
+        tools: ["Blockchain", "Bitcoin", 'Web3', 'NodeJS', 'React', "Redux", "Ordinal", "Stress Test", "MongoDB"],
+        code: '',
+        role: 'Blockchain Bitcoin Developer',
+        demo: '',
+        image: ayla,
+        cover_image: '/project/arcuslab.png',
+    }
+];
